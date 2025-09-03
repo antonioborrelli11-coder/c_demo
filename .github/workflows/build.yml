@@ -33,4 +33,4 @@ jobs:
       # Step 4: Esegui il programma compilato.
       # Questo passo verifica che il programma si esegua senza errori.
       - name: Esegui il programma
-        run: ./main
+        run: ./main 5
